@@ -1,0 +1,19 @@
+
+
+.producttitle {
+    font-weight:bold;
+	padding:2px 0 2px 0;
+}
+
+.productprice {
+	border-top:1px solid #dadada;
+	padding-top:5px;
+}
+
+.pricetext {
+	font-weight:bold;
+	font-size:1.4em;
+	text-align:right;
+	direction: rtl;
+	
+}
